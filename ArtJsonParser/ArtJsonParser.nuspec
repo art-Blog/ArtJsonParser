@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>JsonParserArtUtil</id>
+    <version>1.0.0</version>
+    <title>JsonParser-Title</title>
+    <authors>Art</authors>
+    <owners>Art</owners>
+    <licenseUrl>https://dotblogs.com.tw/artblog</licenseUrl>
+    <projectUrl>https://dotblogs.com.tw/artblog</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>使用 Newtonsoft.Json 套件提供 JSON 序列化與反序列化方法</description>
+    <releaseNotes>第一版</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Json Parser artUtil</tags>
+  </metadata>
+</package>
